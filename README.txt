@@ -1,0 +1,2 @@
+Este proyecto es un codigo python en el cual creamos una lista con 5 elementos, mostramos los elementos contenidos en la lista, agreamos otro elemento a la lista se cuemprueban si algunos elemntos pertenecen a la lista.
+Tambien se crea un diccionario y se muestran sus valores.
